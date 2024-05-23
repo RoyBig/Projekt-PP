@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1642877472 source:c:\programy kuba c\projekt pp v2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643580620 source:d:\programy studia pb\projekt pp v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643584220 source:d:\stary dysk dane\programy studia pb\projekt pp v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
